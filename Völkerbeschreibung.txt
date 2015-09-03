@@ -1,45 +1,78 @@
 [Nordmänner]
 
-Die Nordmänner leben weit Verstreut im Norden [Weltname].
-Am Ende der Welt, wie ein [spanischer] Historiker schreibt.
-Ihre Heimat ist ein geheimnisvolles Land, in dem die Natur das Leben bestimmt.
-Ein Land, wo sich die Naturgewalten berühren.
-Ihr Lebensraum ist Umgeben von den weiten der Meere und im Landesinneren von Bergstreifen geprägt.
+Landschaft
 
-Es ist nicht bekannt aus den Überlieferung, woher sie kommen.
-Sie leben in Gemeinschaften, auch so genannte Klans. Diese Klans
-sind in der Vergangenheit zusammen sowie ausseinander gewachsen,
-was für die Nordmänner nicht unüblich war.
+Die Nordmänner leben weit Verstreut im Norden der uns bekannten Welt.
+Am Ende der Welt, wie der [spanische] Historiker Xandro de Navarra schreibt.
+Ihre Heimat ist ein geheimnisvolles Land, in dem die Natur das Leben prägt.
+Ein Land, wo sich die Naturgewalten in bergigen Landstrichen berühren.
+Ihr Lebensraum ist umgeben von den Weiten der Meere und im Landesinneren von Bergstreifen geprägt.
+Man sagt im Land weht eine raue Luft, die sicher auch dem Ainor Simeon zu verdanken sind.
+Vom Siedlungsraum aus betrachtet lassen sich die Nordmänner gerne an Berghängen nieder, da sie Täler aufgrund ihrer Verwundbarkeit verachten.
 
+Sozialordnung
+
+Nordmänner leben in Gemeinschaften von fünfzig bis zweitausend Mann, auch so genannte Klans. Diese Klans
+sind in der Vergangenheit zusammen sowie ausseinander gewachsen, was für die Nordmänner nicht unüblich war.
+Jeder Klan hat dabei seine eigenen Ziele im Kopf und versucht seinen Herrschaftsbereich so gut es geht auszuweiten.
+Innerhalb des Klan-Lebens gibt es eine feste Rangordnung. Generell kann man aber sagen, je größer und stärker der Krieger, desto angesehener ist er. Frauen und Kinder stehen dabei auf einer Ebene und stets den Männern untergeordnet. 
+Es ist die Pflicht eines jeden Mannes seinem Klan treu zu bleiben. Überläufer haben in der Vergangenheit schon zu Scharmützeln zwischen Klans geführt, da der geschädigte Klan seine Ehre wiederherstellen wollte. Wegen diesen Auseinandersetzungen werden oftmals auch Überläufer schlicht weg abgewiesen, da ein Krieg zwischen zwei Klans, sobald er einmal begonnen hat, kein Ende nimmt bis eine der beiden Parteien besiegt ist.
+
+
+Glaube und Kultur
+
+Nordmänner erkennen Amos als ihren Gott an und zeigen dies besonders durch zahlreiche Opfergaben. 
+Der Ainor Simeon wird von ihnen jedoch mit gemischten Gefühlen betrachtet, da er sich in der Vergangenheit nie für die Opfergaben oder Gebete, die ihm gewidmet waren, interessiert hat und ihm das Leben der Bevölkerung wenig kümmert. Dennoch sehen sie den rauen Wind, der eine sehr abhärtende Wirkung auf das Land und seine Bevölkerung hat, als ein Geschenk von Amos und Simeon an. Weiterhin glauben die Nordmänner, dass Amos ihnen bei der Geburt die Stärke, die Ausdauer und das Geschick verleiht die Herausforderungen im Leben zu bestehen. 
+Denn Stärke und Ausdauer sind die höchsten Werte in den Augen der Nordmänner, was anscheinend auch ihre Frauen sehr an ihren Männern schätzen. Diese Werte spiegeln sich in dem Glauben wieder, dass man aus Büchern niemanden etwas beibringen könne. 
+
+Die Nordmänner erzählen sich ihre Geschichten und Legenden an Lagerfeuern und geben auch so die Vergangenheit ihres Volkes weiter. Die Überlegenheit im Kampf, die physische Stärke und die Fähigkeit, sich mit allem selber zu versorgen sind höher angesehen als alles andere in den Klans. Obwohl es im Nordland auch Seher und Schamanen gibt, so fürchten die Frauen und Männer alles, was nicht von dieser Welt ist. Die meisten Menschen in dieser Region sind daher nicht an den Geheimnissen der Magie interessiert.
 
 Die Nordmännern sind ein Volk mit einer Kultur,
 die vom kaltem, bedrohlichem Land geprägt ist.
 Reisende wundern sich, ob diese Menschen jemals lachen oder etwas anderes außer
-Klagelieder anstimmen. Die Nordmänner leben in diesem
+Klagelieder anstimmen. Die Nordmänner leben in der rauen Natur
 von der Hand in den Mund. Andere Regionen haben nur Mitleid für dieses Volk. 
 Aber diese Umstände geben ihnen auch eine Stärke, die durch keine Ausbildung je erreicht werden könnte.
 
-Nordmänner erkennen Amos als ihren Gott an, aber sie verehren ihn nicht wie die Briten ihn ehren oder die Serazenen ihn fürchten. Simeon sitzt grübelnd und wachend auf seinem Herrschersessel in den Bergen, aber das Leben der Sterblichen kümmert ihn nicht. Die Nordmänner glauben, dass Amos ihnen bei der Geburt die Stärke, die Ausdauer und das Geschick verleiht die Herausforderungen im Leben zu bestehen. 
-Danach sind sie auf sich alleine gestellt. Die Nordmänner glauben, dass man nicht aus Büchern jemanden etwas beibringen könnte. 
-Sie erzählen sich ihre Geschichten und Legenden an Lagerfeuern und geben auch so die Vergangenheit ihres Volkes weiter. Die Überlegenheit im Kampf, die physische Stärke und die Fähigkeit, sich mit allem selber zu versorgen sind höher angesehen als alles andere in den Klans. Obwohl es im Nordland auch Seher und Schamanen gibt, so fürchten die Frauen und Männer alles, was nicht von dieser Welt ist. Die meisten Menschen in dieser Region sind nicht an den Geheimnissen der Magie interessiert.
+Erscheinen und Auftreten
 
+Die Bewohner des Nordreiches haben in der Regel eine recht helle, bis leicht gebräunte Haut. Bei ihnen sind die blonde Haarfarbe und blaue und grüne Augen besonders verbreitet. Allgemein kann man auch sagen, dass diese Menschen sehr hoch gewachsen sind. Unter ihres Gleichen erzählt man sich, dass sie diese Größe von Torlaf Udlarikson, einem Volkshelden, geerbt bekommen haben, um sich besser in der bergigen Landschaft zurecht zu finden.
 
+Das Erscheinen der Männer ist zudem von einem muskolösen Körperbau und langen Haaren und Bärten geprägt. 
+Die Frauen der Nordmänner sind ebenfalls nicht zierlich. Auch sie sind etwas kräftiger und größer als die meisten Frauen aus dem Süden. Wenigen Nordfrauen wird auch eine unglaubliche Schönheit zugesprochen, jedoch werden diese in südlichen Regionen recht selten gesehen.
+
+Genau so wie ihr Land verhalten sich ein großteil der Nordmänner, roh und ungeschliffen. Sie machen sich als exzellente Krieger, auch wenn sie mittlerweile starke Konkurrenz durch die Feuerwaffenentwicklung bekommen haben. 
 
 ------------------------------------------------
 
 Serazenen
 
-Die Serazenen leben weit im Süden in zwei Provinzen West und Ost, Maghreb - Das Land der untergehenden Sonne und Machrek, das Land der aufgehenden Sonne.
-Das Land ist überdeckt mit Dünen und Wüsten. Sand wohin das Auge reicht.
+Landschaft
 
+Die Serazenen leben weit im Süden in zwei Provinzen West und Ost, Maghreb - Das Land der untergehenden Sonne und Machrek, das Land der aufgehenden Sonne. Sowohl im Westen als auch im Osten ist das Land mit Dünen und Wüsten überzogen. Man sieht Sand wohin das Auge reicht. Nur an wenigen Punkten lassen sich Oasen oder Flüsse ausmachen. Der wohl bekannteste unter ihnen ist der Taigab, nahe dessen Mündung sich auch die Metropole der westlichen Provinz, Ber'ghab, befindet. Die Einwohnerzahl von Ber'ghab wird auf ungefähr dreihundert tausend Einwohner geschätzt. Andere wichtige Städte bestehen in der Regel aus vierzig bis zweihundert tausend Einwohnern. Diese sind unter anderem Ber'gaf, Zemrab und Zamak. All diese Städte konnten nur auf eine solche Größe aufgrund ihrer günstigen Lage, nahe Wasser, anwachsen, wodurch sie auch in der Regel sehr langgezogen und dünn sind.
 
-Die Serazenen sind bekannt für ihre Weisheit und Gelehrten.
-Keiner der Länder hat so viel Wissen in ihreren Bibliotheken wie die Serazenen.
+Neben den Siedlern nahe den Flüssen und in den florierenden Städten, finden sich meist nur Wandervölker in den weitläufigen Wüstenlandstrichen.
 
-Die Serazenische Gesellschaft in einem Kastensystem unterteilt. Die Noble Kaste, die Mittlere Kaste und die Untere Kaste. Jeder Serazene wird in seine Kaste hineingeboren. Die Noble Kaste ist in der heutigen Zeit so gut wie verschwunden, nicht wie im Gegenteil die Untere Kaste, die mit der Zeit größer und mit den anderen Rassen gemischt wurde. Sie werden kaum noch in den größeren serazenischen Städten angetroffen und es ist nicht bekannt, dass sie jemals außerhalb Serazeniens gesehen wurden. Die Mittelere Kaste sind die Adeligen in Serazenien. Sie sind die herrschende Macht in diesem Land. Die Mittlere Kaste herrscht über die Untere Kaste mit einer starken Hand und zwingt sie zur Unterwürfigkeit und Angst. Die Unterschicht fürchtet, dass wen Natan zorning ist, Plagen und Kastrophen über das Land herfallen.
+Sozialordnung
 
+Während die Wanderer in den Wüsten sehr abgehärtete Händler und Hirten, teilweise auch Bergarbeiter sind, lässt sich die Elite des Landes eher in den Städten finden. Sie besteht größten Teils aus Gelehrten, Priestern und Staatsmännern.
 
-Serazenen bevorzugen Intelligenz und Geschick vor roher Gewalt. Schwerter und andere Waffen sind die Eigenschaften eines Primitivlings, nicht einer zivilisierten Person. Aus diesem Grund sind die meisten ausserhalb lebenden Serazenen häufig Gelehrte oder Suchende nach Wissen. Mögliche Wege wären die Ausübung der Magie, Studium des Körpers oder die Kunst des Heilers oder Attentate. Alle genannten Bereiche benötigen Intellekt, Disziplin und eine Ausbildung.
+Die Serazenische Gesellschaft wird hierbei in ein Kastensystem unterteilt. Die noble Kaste, die gehobene Kaste, die mittlere Kaste und die untere Kaste, auch Unterschicht genannt.
+Jeder Serazene wird in eine Kaste hineingeboren. Die noble Kaste ist in der heutigen Zeit so gut wie verschwunden, nicht wie im Gegenteil die Untere Kaste, die mit der Zeit immer stärker anwuchs. Die gehobene Kaste hat sich durch das Verschwinden der noblen Kaste zur herrschenden Elite des Landes entwickelt. Sie regiert über die Mittel- und Unterschicht des mit starker Hand und zwingt die anderen Kasten zur Unterwürfigkeit.
+Man muss jedoch einräumen, dass vor allem die Unterschicht unter der Regierung der gehobenen Kaste zu leiden hat. 
+Mitglieder der Unterschicht dürfen nur in Stadtrandsgebieten unter schlechten Bedingungen siedeln. Durch diese schlechte Lage und oft noch schlechteres Einkommen durch ihre Tätigkeiten als Bauern und Hirten haben sich diese Randgebiete zu regelrechten Slums entwickelt.
+Die mittlere Kaste hingegen besteht aus geschickten Handwerkern und Forschern, die durch ihre gehobenen Tätigkeiten sich zumindest ein halbwegs anständiges Leben leisten können und auch ihre Kinder in Schulen schicken dürfen, wo sie auch in Religion gebildet werden.
+Die Unterschicht erfährt zwar fast nie eine solche Bildung, jedoch sind sie 
+
+Glaube und Kultur
+
+So ziemlich jeder Serazene glaubt an Amos und folgt - so weit bekannt - den Lehren der Ainor. Vor allem die mittlere und gehobene Kaste sind im Glauben und Religion durch die Schule unterwiesen und kennen sich bestens mit den Lehren aus. Die untere Kaste jedoch ist ungebildet über die Lehren der Ainor oder nur in Bruchstücken durch Gottesdienste aufgeklärt, da Schulbesuche zu teuer für die Mitglieder der Unterschicht sind. Dennoch fürchtet die Unterschicht Amos und auch den Ainor Natan, da sie Angst vor schlechter Ernte haben. Deshalb beten sie auch am innigsten von allen Kasten. 
+
+Erscheinen und Auftreten
+
+Serazenen haben eine dunkle Haut- und Haarfarbe. Bei den Augenfarben sind grün und blau kaum bis garnicht aufzufinden. Wenige Serazenen werden mit heller Haut geboren, diese sog. Albino-Serazenen werden im Volk jedoch geächtet, da man ihnen einen Bund mit den Abtrünnigen vorwirft. 
+
+Serazenen bevorzugen Intelligenz und Geschick vor roher Gewalt. Schwerter und andere grobe Waffen sind die Eigenschaften eines Primitivlings, nicht einer zivilisierten Person. Aus diesem Grund sind die meisten im Ausland lebenden Serazenen häufig Gelehrte oder Suchende nach Wissen. Mögliche Wege wären die Ausübung der Magie, Studium des Körpers oder die Kunst des Heilers oder Attentate. Alle genannten Bereiche benötigen Intellekt, Disziplin und einen hohen Bildungsstandart.
 
 
 --------------------------------------------------
